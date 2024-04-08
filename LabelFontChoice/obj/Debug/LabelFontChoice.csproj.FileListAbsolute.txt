@@ -1,0 +1,10 @@
+C:\Users\jonat\source\repos\LabelFontChoice\LabelFontChoice\bin\Debug\LabelFontChoice.exe.config
+C:\Users\jonat\source\repos\LabelFontChoice\LabelFontChoice\bin\Debug\LabelFontChoice.exe
+C:\Users\jonat\source\repos\LabelFontChoice\LabelFontChoice\bin\Debug\LabelFontChoice.pdb
+C:\Users\jonat\source\repos\LabelFontChoice\LabelFontChoice\obj\Debug\LabelFontChoice.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\LabelFontChoice\LabelFontChoice\obj\Debug\LabelFontChoice.Properties.Resources.resources
+C:\Users\jonat\source\repos\LabelFontChoice\LabelFontChoice\obj\Debug\LabelFontChoice.csproj.GenerateResource.cache
+C:\Users\jonat\source\repos\LabelFontChoice\LabelFontChoice\obj\Debug\LabelFontChoice.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\LabelFontChoice\LabelFontChoice\obj\Debug\LabelFontChoice.exe
+C:\Users\jonat\source\repos\LabelFontChoice\LabelFontChoice\obj\Debug\LabelFontChoice.pdb
+C:\Users\jonat\source\repos\LabelFontChoice\LabelFontChoice\obj\Debug\LabelFontChoice.Form1.resources

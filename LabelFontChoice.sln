@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelFontChoice", "LabelFontChoice\LabelFontChoice.csproj", "{1A5158F0-4408-4AC4-9FB3-65A73AC41E2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A5158F0-4408-4AC4-9FB3-65A73AC41E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A5158F0-4408-4AC4-9FB3-65A73AC41E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A5158F0-4408-4AC4-9FB3-65A73AC41E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A5158F0-4408-4AC4-9FB3-65A73AC41E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B99B6DF2-74D1-41A4-860E-8759DA67130E}
+	EndGlobalSection
+EndGlobal
